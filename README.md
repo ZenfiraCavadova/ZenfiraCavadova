@@ -1,6 +1,15 @@
  ![MasterHead](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjRCxl7GGxflQoamqaucgrH0IikHkeGrPHycfiCBAN8lU4ES7LEPkhwMOKkctGsQvP9kZXP3J5qN-xVAItkFi0er8kuJs26gVf2kwAjKcl7EeLvBSkwXveqWpWMx_kD8lryE1hmUdyk6HWJCNo_eaJ7GjoyW6UQVEfddVUJWdbrID7p30qxB3p3B22y/s1600/Android%20Devs%20Banner%20.png)
-<h1 align="center">Hi 👋, I'm Zenfira Cavadova</h1>
-<h3 align="center">A passionate android developer from Azerbaijan</h3>
+![](https://komarev.com/ghpvc/?username=ZenfiraCavadova&color=blue)
+<div align="center">
+ <a href="https://github.com/CagatayAkkas">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&center=true&vCenter=true&width=435&lines=%e2%9c%a8+Zenfira+Cavadova+%e2%9c%a8;%f0%9f%93%9a+Android+Developer+%f0%9f%92%bb;Welcome+To+My+Profile+%f0%9f%91%80" alt="Typing SVG" />
+ </a>
+</div>
+
+<img src="https://github.com/ZenfiraCavadova/ZenfiraCavadova/blob/main/img/EatSleepCodeRepeat.gif" alt="Coding" width=200 height=200 align="right">
+
+
+<h3 align="left">&nbsp; A passionate Android developer from Azerbaijan</h3>
 
 - 📫 How to reach me **cavadovazenfira04@gmail.com**
 
@@ -20,7 +29,70 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zenfiracavadova&" alt="zenfiracavadova" /></p>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ZenfiraCavadova/ZenfiraCavadova/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ZenfiraCavadova/ZenfiraCavadova/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ZenfiraCavadova/ZenfiraCavadova/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CagatayAkkas/CagatayAkkas/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CagatayAkkas/CagatayAkkas/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/CagatayAkkas/CagatayAkkas/output/github-contribution-grid-snake.svg">
 </picture>
+
+
+
+# Github Stats
+
+ <br />
+ 
+  <p align="center">
+  <a>
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=ZenfiraCavadova&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false" alt="CagatayAkkas" />
+  </a>
+</p>
+
+  
+<br />
+
+
+ 
+ <p align="center">
+  <a>
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ZenfiraCavadova&theme=material-palenight&hide_border=false" alt="ZenfiraCavadova" width="55%" />
+  </a>
+</p>
+ 
+
+ 
+ <br />
+ 
+  
+  
+  <p align="center">
+  <a>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZenfiraCavadova&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="ZenfiraCavadova" />
+  </a>
+</p>
+ 
+  
+  
+ <!--
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CagatayAkkas&layout=compact&langs_count=25&title_color=0000ee&text_color=ffffff&bg_color=000000&hide_border=true)](https://github.com/ZenfiraCavadova/github-readme-stats)
+-->
+
+
+<br />
+
+![](https://github-profile-trophy.vercel.app/?username=ZenfiraCavadova&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
+
+
+<br />
+
+
+<br />
+
+
+<!--
+</details>
+-->
+
+<!--
+<details>
+   <summary>:zap: Languages and Tools</summary>
+ -->
+
